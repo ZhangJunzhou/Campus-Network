@@ -29,3 +29,6 @@ if __name__ == '__main__':
     password = getpass.getpass("Password:")
     name = name.strip()
     login(name,password)
+#postData=urllib.urlencode(postdata)
+#request=urllib2.Request(posturl,postData,header)
+#response=urllib2.urlopen(request)
