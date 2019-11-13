@@ -7,4 +7,4 @@
 ## 方法2
 执行py脚本<br>
 python login_url.py  登录<br>
-python logout_url.py  登出
+python logout_url.py  退出
